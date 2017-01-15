@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post"
+title:  "First post!"
 date:   2017-01-15 09:04:21 +1100
 categories: welcome blog
 ---

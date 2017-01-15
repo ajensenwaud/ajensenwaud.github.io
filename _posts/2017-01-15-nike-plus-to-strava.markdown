@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nike+ Sports Watch data import to Strava"
+title:  "How to easily import Nike+ GPS Sports Watch data to Strava"
 date:   2017-01-15 21:41:00 +1100
 categories: running nikeplus data
 ---

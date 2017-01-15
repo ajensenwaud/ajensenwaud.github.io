@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Random ramblings from /dev/urandom
 email: anders AT jensenwaud DOT com
-description: This is my personal blog on code, tech, and running. 
+description: This is my personal blog on code, tech, and running. The stuff I write here does not represent that of my employer or its clients.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ajensenwaud.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajensenwaud
